@@ -1,7 +1,7 @@
 body {
   margin: 0px;
   background-color: pink;
-  background: url("IMAGES/download (2).png");
+  background: url("IMAGES/download (2)");
   background-blend-mode: overlay;
 }
 li:hover {
