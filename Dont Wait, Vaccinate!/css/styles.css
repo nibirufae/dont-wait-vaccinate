@@ -1,0 +1,292 @@
+body {
+  margin: 0px;
+  background-color: pink;
+  background-image: url("/Users/fay/Desktop/CODE/Dont Wait, Vaccinate!/IMAGES/download (2)");
+}
+li:hover {
+  background-color: rgba(255,208,182,0.75);
+  border-radius: 15%;
+}
+h5.rov {
+  border-style: outset;
+  border-width: 10px;
+  border-color: rgba(182,193,255,.5);
+  border-radius: 15%;
+  width: 44%;
+  padding: 10px;
+  background-color:  rgba(182,193,255,.75);
+}
+p.rov {
+  border-style: outset;
+  border-width: 10px;
+  border-color: rgba(182,193,255,.5);
+  border-radius: 15%;
+  width: 44%;
+  padding: 10px;
+  background-color:  rgba(182,193,255,.75);
+}
+h5.rov:hover {
+  background-color: rgba(255,208,182,0.75);
+  border-radius: 15%;
+  border-width: 10px;
+  border-style: outset;
+  border-color: rgba(182,193,255,.5);
+  padding: 10px;
+  width: 44%;
+}
+}
+p.rov {
+  border-style: outset;
+  border-width: 10px;
+  border-color: rgba(182,193,255,.5);
+  border-radius: 15%;
+  width: 44%;
+  padding: 10px;
+  background-color:  rgba(182,193,255,.75);
+}
+p.rov:hover {
+  background-color: rgba(255,208,182,0.75);
+  border-radius: 15%;
+  border-width: 10px;
+  border-style: outset;
+  border-color: rgba(182,193,255,.5);
+  padding: 10px;
+  width: 44%;
+}
+a {
+  width: 50px;
+  text-decoration: none;
+  color: #31698a;
+  padding: 5px;
+}
+nav {
+  padding: 1px;
+  text-align: center;
+}
+ul {
+  padding-left: 0px;
+}
+li {
+  margin-left: 25px;
+  margin-right: 25px;
+  display: inline;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-size: 25px;
+  border-style: outset;
+  border-width: 5px;
+  border-color: rgba(182,193,255,.5);
+  border-radius: 15%;
+  background-color:  rgba(182,193,255,.75);
+}
+h3 {
+  width: 250px;
+  border-style: outset;
+  border-width: 5px;
+  border-color: rgba(182,193,255,.5);
+  border-radius: 15%;
+  background-color:  rgba(182,193,255,.75);
+}
+h3#defvax {
+  width: 750px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding: 25px;
+  border-radius: 15%;
+}
+h1 {
+  text-align: center;
+  width: 250px;
+  padding: 10px;
+  border-style: outset;
+  border-width: 5px;
+  border-radius: 15%;
+  background-color:  rgba(182,193,255,.75);
+  border-color: rgba(182,193,255,.5);
+  margin-right: 1500px;
+}
+h1#titlevax {
+  width: 75px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-style: outset;
+  border-width: 5px;
+  padding: 25px;
+  border-radius: 15%;
+}
+h5 {
+  text-align: left;
+}
+h5.Info {
+  text-align: right;
+  padding: 50px;
+}
+h6 {
+  text-align: right;
+}
+h6#Sour {
+  text-align: center;
+  width: 150px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-style: outset;
+  border-width: 5px;
+  background-color: rgba(182,193,255,.75);
+  margin-left: 888px;
+  border-color: rgba(182,193,255,.5);
+  border-radius: 15%;
+  padding: 25px;
+}
+div {
+  overflow: auto;
+}
+.link:hover {
+  background-color: rgba(255,208,182,0.75);
+}
+.Cat {
+  text-align: center;
+}
+.Sour {
+  text-align: right;
+}
+.Info {
+  background-color:  rgba(182,193,255,.25);
+  height: 300px;
+  padding: 110px;
+  margin: 12.5px;
+  border-style: inset;
+  border-width: 5px;
+  border-color: rgba(182,193,255,.5);
+  border-radius: 5%;
+  color: #31698a;
+  overflow-x: hidden;
+  overflow-x: inherit;
+}
+.previous {
+  margin-top: 5px;
+  width: 2.5%;
+  color: #31698a;
+  background-color: rgba(182,193,255,.75);
+  display: inline;
+  font-size: 40px;
+  border-radius: 33%;
+  border-color: rgba(182,193,255,.5);
+  border-style: outset;
+  border-width: 5px;
+}
+.previous:hover {
+  margin-top: 5px;
+  width: 2.5%;
+  color: #31698a;
+  background-color: rgba(255,208,182,0.75);
+  display: inline;
+  font-size: 40px;
+  border-radius: 33%;
+  border-color: rgba(182,193,255,.5);
+  border-style: outset;
+  border-width: 5px;
+}
+.next {
+  margin-top: 5px;
+  width: 2.5%;
+  color: #31698a;
+  background-color: rgba(182,193,255,.75);
+  display: inline;
+  font-size: 40px;
+  border-radius: 33%;
+  border-color: rgba(182,193,255,.5);
+  border-style: outset;
+  border-width: 5px;
+}
+.next:hover {
+  margin-top: 5px;
+  width: 2.5%;
+  color: #31698a;
+  background-color: rgba(255,208,182,0.75);
+  display: inline;
+  font-size: 40px;
+  border-radius: 33%;
+  border-color: rgba(182,193,255,.5);
+  border-style: outset;
+  border-width: 5px;
+}
+.round {
+  border-radius: 50%;
+}
+.Hovl {
+  background-color: none;
+}
+.Hov {
+  padding: 10px;
+  background-color: rgba(182,193,255,.75);
+  border-color: rgba(182,193,255,.5);
+  border-style: outset;
+  border-width: 10px;
+border-radius: 5%;
+}
+.pov {
+  padding: 10px;
+  background-color: rgba(182,193,255,.75);
+  border-color: rgba(182,193,255,.5);
+  border-style: outset;
+  border-width: 10px;
+border-radius: 5%;
+}
+.dov {
+    padding: 10px;
+    background-color: rgba(182,193,255,.75);
+    border-color: rgba(182,193,255,.5);
+    border-style: outset;
+    border-width: 10px;
+  border-radius: 5%;
+  text-align: right;
+  width: 500px;
+   margin-left: 733px;
+  }
+}
+.rov {
+  padding: 10px;
+  background-color: rgba(182,193,255,.75);
+  border-color: rgba(182,193,255,.5);
+  border-style: outset;
+  border-width: 10px;
+border-radius: 5%;
+width: 44%;
+}
+.Hov:hover {
+  background-color: rgba(255,208,182,0.75);
+  border-radius: 5%;
+  padding: 10px;
+}
+.Hovpol {
+  background-color: rgba(182,193,255,.75);
+  border-radius: 5%;
+  padding: 10px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  border-color: rgba(182,193,255,.5);
+  border-style: outset;
+  border-width: 10px;
+}
+.Hovpol:hover {
+  background-color: rgba(255,208,182,0.75);
+  border-radius: 5%;
+  padding: 10px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  border-color: rgba(182,193,255,.5);
+  border-style: outset;
+  border-width: 10px;
+}
+#titlevax {
+  text-align: left;
+  padding-bottom: 75px;
+}
+#defvax {
+  padding-bottom: 75px;
+}
+#Facts {
+  margin-top: 15px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
