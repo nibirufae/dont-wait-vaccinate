@@ -1,8 +1,7 @@
 body {
   margin: 0px;
-  background-color: pink;
+  background-color: rgb(255,192,203);
   background: url("download (2).png");
-  background-blend-mode: screen;
 }
 li:hover {
   background-color: rgba(255,208,182,0.75);
